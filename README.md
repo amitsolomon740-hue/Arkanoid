@@ -39,4 +39,3 @@ The project uses **Apache Ant** for automated building and execution.
 ## Controls
 * **Movement:** Use the arrow keys (Left/Right) to move the paddle.
 * **Objective:** Break all the blocks to win. The game ends if all balls fall below the paddle.
-* 
