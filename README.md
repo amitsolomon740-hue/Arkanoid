@@ -1,4 +1,3 @@
-# Arkanoid
 # Arkanoid Game
 
 ## Project Description
